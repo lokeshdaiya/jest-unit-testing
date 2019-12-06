@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" time="2.748">
+  <testsuite name="sum test" errors="0" failures="0" skipped="0" timestamp="2019-12-06T13:55:17" time="1.428" tests="1">
+    <testcase classname="sum test test sum" name="sum test test sum" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>
